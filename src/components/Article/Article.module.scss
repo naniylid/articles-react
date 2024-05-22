@@ -1,0 +1,14 @@
+.article {
+  border: 1px solid #072a16;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px 0;
+
+  &:hover {
+    box-shadow: 18px 3px 24px 10px #acc864;
+  }
+
+  p {
+    font-size: 15px;
+  }
+}
